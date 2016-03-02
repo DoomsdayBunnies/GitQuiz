@@ -1,4 +1,4 @@
-public class App {
+public class App { 
 //<<<<<<< HEAD
 =======
 //Jeffrey made some changes
